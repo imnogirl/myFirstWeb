@@ -1,0 +1,15 @@
+body {
+    background-color: #f0f0f0; /* Màu nền xám nhạt */
+    font-family: Arial, sans-serif; /* Chọn font chữ */
+    text-align: center; /* Căn giữa nội dung */
+    padding: 50px;
+}
+
+h1 {
+    color: #333333; /* Màu chữ tiêu đề */
+}
+
+p {
+    color: #555555; /* Màu chữ đoạn văn */
+    font-size: 18px;
+}
